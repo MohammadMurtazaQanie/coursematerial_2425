@@ -6,6 +6,8 @@ We want to write a tool that helps us determine how many cakes we can bake given
 
 Write a function `cake(eggs)` that returns the amount of cakes one can make given `eggs` number of eggs.
 
+
+
 ```python
 # Without any eggs, we can't bake any cakes
 >>> cake(0)

@@ -5,6 +5,8 @@ Write a function `drop_last_digit(n)` that removes the last digit of the given n
 
 `n` is guaranteed to be a positive integer.
 
+
+
 #### USAGE
 
 ```python

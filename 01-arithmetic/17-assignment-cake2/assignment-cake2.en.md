@@ -6,6 +6,8 @@ We need to update our tool to take into account this second ingredient.
 
 Write a function `cake2(eggs, flour)` that returns the amount of cakes one can make given `eggs` number of eggs and `flour` grams of flour.
 
+
+
 ```python
 # Enough eggs, but not enough flour
 >>> cake2(5, 0)

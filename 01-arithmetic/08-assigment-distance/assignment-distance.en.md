@@ -13,3 +13,4 @@ Write a function `distance(x1, y1, x2, y2)` that computes the distance between t
 
 If you want to know how to compute the square root: $\sqrt{x} = x^\frac{1}{2}$.***
 
+

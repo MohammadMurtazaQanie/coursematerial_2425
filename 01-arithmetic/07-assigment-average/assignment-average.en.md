@@ -11,6 +11,7 @@ $$
 Write a function `average(x, y)` that computes the average of the two given values `x` and `y`.
 
 
+
 #### USAGE
 
 ```python

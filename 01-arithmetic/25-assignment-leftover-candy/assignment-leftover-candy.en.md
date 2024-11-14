@@ -10,6 +10,7 @@ Write a function `leftover_candy(candy_count, child_count)` that computes how mu
 As always, there are multiple ways to solve this problem.
 The purpose of this exercise is to find a solution that involves a single step.
 
+
 #### USAGE
 
 ```python

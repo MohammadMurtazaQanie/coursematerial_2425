@@ -5,7 +5,6 @@ Write a function `last_digit(n)` that returns the last decimal digit of `n`.
 
 `n` is guaranteed to be a positive integer.
 
-
 #### USAGE
 
 ```python

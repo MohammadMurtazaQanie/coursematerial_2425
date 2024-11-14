@@ -6,6 +6,7 @@ But just one slice per person, sorry.
 Write a function `pizza(n_people, slices_per_pizza)` that determines how many pizzas we need to feed everyone.
 
 
+
 ```python
 >>> pizza(8, 8)
 1
